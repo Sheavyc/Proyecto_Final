@@ -13,7 +13,10 @@ public class Nodo {
           this.Siguiente=null;
           this.Cola=null;
           //this.siguiente=siguiente;
+
+          
       }
+      
 
     
 }

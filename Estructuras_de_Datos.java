@@ -13,7 +13,7 @@ public class Estructuras_de_Datos {
 
     public void Mostrar_Tareas_Pendientes() {
     };
-
+    
     //s Se crea el metodo agregar que tiene como parametro un objeto tarea de tipo
     // Tarea, este conteniendo los atributos de la clase Tarea
     // se crea el objeto nodoNuevo de tipo Nodo, el cual tiene como parametro el

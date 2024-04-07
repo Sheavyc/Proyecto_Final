@@ -26,6 +26,7 @@ public class Main {
         //se simplifica el nombre a lista para no utilizar uno tan largo 
           Estructuras_de_Datos lista = new Estructuras_de_Datos();
         int Opcion = 0;
+       
         
       
         

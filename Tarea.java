@@ -30,6 +30,7 @@ public class Tarea {
     }
     public void setFecha(String fecha) {
         Fecha = fecha;
+        
     }
     
    
